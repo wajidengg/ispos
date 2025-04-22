@@ -1,0 +1,19 @@
+opencv-python-headless
+numpy
+requests
+pillow
+pyserial
+requests-cache 
+retry-requests 
+pandas
+openmeteo-requests
+# To install the required packages, run the following command in your terminal:
+# pip install -r requirements.txt
+
+
+
+
+
+
+
+
